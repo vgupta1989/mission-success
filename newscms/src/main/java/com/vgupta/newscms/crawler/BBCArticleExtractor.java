@@ -27,14 +27,14 @@ public class BBCArticleExtractor implements ArticleExtractor {
             HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
             String html = htmlParseData.getHtml();
             Document doc = Jsoup.parse(html);
-            Elements body_h1 = doc.getElementsByClass("story-body__h1");
+            Elements titleElements = doc.getElementsByClass("story-body__h1");
             Elements content = doc.getElementsByClass("story-body__inner");
-            if(body_h1.size() > 0 && content.size() > 0) {
-                String heading = body_h1.text();
+            if(titleElements.size() > 0 && content.size() > 0) {
+                String heading = titleElements.text();
                 Element element = content.get(0);
-                Elements p = element.getElementsByTag("p");
-                Stream<TextNode> textNodeStream = p.stream().flatMap(element1 -> element1.textNodes().stream());
-                List<String> contentList = textNodeStream.map(textNode -> textNode.getWholeText()).collect(Collectors.toList());
+                Elements elementsWithParaTag = element.getElementsByTag("p");
+                Stream<TextNode> textNodeStream = elementsWithParaTag.stream().flatMap(element1 -> element1.textNodes().stream());
+                List<String> contentList = textNodeStream.map(TextNode::getWholeText).collect(Collectors.toList());
                 String contentText = contentList.stream().collect(Collectors.joining(" "));
                 article = new Article(heading, url, contentText);
             }

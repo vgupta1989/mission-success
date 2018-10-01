@@ -1,6 +1,5 @@
 package com.vgupta.newscms.crawler;
 
-import com.vgupta.newscms.model.Article;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -14,7 +13,7 @@ public class ArticlesCrawlerFactory  implements CrawlController.WebCrawlerFactor
     }
 
     @Override
-    public ArticlesCrawler newInstance() throws Exception {
+    public ArticlesCrawler newInstance() {
         return articlesCrawler;
     }
 }
