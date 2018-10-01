@@ -3,9 +3,11 @@ News Content Manager(NewsCMS) is a system that crawls for articles from a news w
 
 ##Details
 
-###FrameWorks Used:- 
+###Technology Involved
 
-- [![crawler4j](https://github.com/yasserg/crawler4j)] For Web Crawling
-- [![jsoup](https://github.com/jhy/jsoup/)] for HTML Parsing
+- [[crawler4j](https://github.com/yasserg/crawler4j)] For Web Crawling
+- [[jsoup](https://github.com/jhy/jsoup/)] for HTML Parsing
 - JAVA 8
+- Gradle
+- MongoDB
 - SpringBoot
