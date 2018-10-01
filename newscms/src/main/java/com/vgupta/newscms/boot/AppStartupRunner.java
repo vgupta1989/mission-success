@@ -1,9 +1,8 @@
 package com.vgupta.newscms.boot;
 
 
-import com.vgupta.newscms.crawler.ArticlesCrawler;
 import com.vgupta.newscms.crawler.ArticlesCrawlerFactory;
-import com.vgupta.newscms.repository.ArticleRepository;
+import com.vgupta.newscms.service.NewsCMSService;
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
 import edu.uci.ics.crawler4j.fetcher.PageFetcher;
@@ -14,7 +13,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
-import com.sleepycat.je.Environment;
 
 @Slf4j
 @Component
@@ -23,6 +21,9 @@ public class AppStartupRunner implements ApplicationRunner {
     @Autowired
     private ArticlesCrawlerFactory articlesCrawlerFactory;
 
+    @Autowired
+    private NewsCMSService newsCMSService;
+
     @Override
     public void run(ApplicationArguments args) throws Exception {
         String crawlStorageFolder = "/data/crawl/root";
@@ -30,6 +31,8 @@ public class AppStartupRunner implements ApplicationRunner {
 
         CrawlConfig config = new CrawlConfig();
         config.setCrawlStorageFolder(crawlStorageFolder);
+        //setting maximum pages to 1000
+        config.setMaxPagesToFetch(1000);
 
         /*
          * Instantiate the controller for this crawl.
@@ -45,11 +48,13 @@ public class AppStartupRunner implements ApplicationRunner {
          * which are found in these pages
          */
         controller.addSeed("http://www.bbc.com/");
+//        controller.addSeed("https://www.bbc.com/news/business-45702609");
 
         /*
          * Start the crawl. This is a blocking operation, meaning that your code
          * will reach the line after this only when crawling is finished.
          */
+        newsCMSService.deleteExistingArticles();
         controller.start(articlesCrawlerFactory, numberOfCrawlers);
     }
 }

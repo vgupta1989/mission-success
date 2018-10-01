@@ -62,5 +62,8 @@ public class ArticleRepositoryImpl implements ArticleRepository {
         return articles;
     }
 
-//    public interface PetsRepository extends MongoRepository<Pets, String>
+    @Override
+    public void deleteExistingArticles() {
+        mongoTemplate.remove(new Query(), "article");
+    }
 }

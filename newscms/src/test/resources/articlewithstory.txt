@@ -1,0 +1,92 @@
+<h1 class="story-body__h1">Indonesia earthquake: Huge surge in death toll</h1>
+<div class="story-body__inner" property="articleBody">
+        <figure class="media-with-caption">
+    <div class="player-with-placeholder">
+            <img class="media-placeholder player-with-placeholder__image lead-video-placeholder" src="https://ichef.bbci.co.uk/images/ic/720x405/p06mkcml.jpg">
+            <div class="player-with-placeholder__caption">Media playback is unsupported on your device</div>
+      <div class="player-with-placeholder">
+        <div class="media-player-wrapper">
+          <div id="sticky-player-1">                <div class="sticky-player__wrapper">                    <div class="sticky-player__player"><figure class="media-player" data-playable="{&quot;settings&quot;:{&quot;counterName&quot;:&quot;news.world.asia.story.45697553.page&quot;,&quot;edition&quot;:&quot;Asia&quot;,&quot;pageType&quot;:&quot;eav2&quot;,&quot;uniqueID&quot;:&quot;45697553&quot;,&quot;ui&quot;:{&quot;locale&quot;:{&quot;lang&quot;:&quot;en-gb&quot;}},&quot;externalEmbedUrl&quot;:&quot;https:\/\/www.bbc.com\/news\/av\/embed\/p06mkc3s\/45697553&quot;,&quot;insideIframe&quot;:false,&quot;statsObject&quot;:{&quot;clipPID&quot;:&quot;p06mkc3q&quot;},&quot;playlistObject&quot;:{&quot;title&quot;:&quot;It is feared many people remain trapped in collapsed buildings&quot;,&quot;holdingImageURL&quot;:&quot;https:\/\/ichef.bbci.co.uk\/images\/ic\/$recipe\/p06mkcml.jpg&quot;,&quot;guidance&quot;:&quot;Contains disturbing scenes.&quot;,&quot;embedRights&quot;:&quot;allowed&quot;,&quot;summary&quot;:&quot;It is feared many people remain trapped in collapsed buildings&quot;,&quot;liveRewind&quot;:false,&quot;simulcast&quot;:false,&quot;items&quot;:[{&quot;vpid&quot;:&quot;p06mkc3s&quot;,&quot;live&quot;:false,&quot;duration&quot;:107,&quot;kind&quot;:&quot;programme&quot;}]}},&quot;otherSettings&quot;:{&quot;advertisingAllowed&quot;:true,&quot;continuousPlayCfg&quot;:{&quot;enabled&quot;:false},&quot;isAutoplayOnForAudience&quot;:false}}" id="media-player-1"><div id="smphtml5iframemedia-player-1wrp" style="border-bottom: 0px; z-index: 999; position: relative; height: 100%; width: 100%; padding-bottom: 56.25%;"><iframe id="smphtml5iframemedia-player-1" name="smphtml5iframemedia-player-1" frameborder="0" scrolling="no" src="//emp.bbc.com/emp/SMPj/2.21.23/iframe.html" allowfullscreen="" allowtransparency="" gesture="media" allow="autoplay" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;" title="It is feared many people remain trapped in collapsed buildings"></iframe></div></figure></div>                    <div class="sticky-player__body">                        <h2 class="sticky-player__headline">It is feared many people remain trapped in collapsed buildings</h2>                    </div>                    <button class="sticky-player__close-button falcon__button">                        <span class="off-screen">Exit player</span>                    </button>                </div>            </div>            <div id="sticky-player-1-placeholder" class="sticky-player__image responsive-image"></div>
+        </div>
+      </div>
+    </div>    <figcaption class="media-with-caption__caption"><span class="off-screen">Media caption</span>It is feared many people remain trapped in collapsed buildings</figcaption>
+</figure><p class="story-body__introduction">At least 832 people were killed in the devastating earthquake and tsunami that hit the Indonesian island of Sulawesi, the national disaster agency says.</p><p>Many people were reported trapped in the rubble of buildings that collapsed in Friday's 7.5-magnitude earthquake, agency spokesman Sutopo Purwo Nugroho told a news conference.</p><p>The quake triggered tsunami waves as high as 6m (20ft), he added.</p><p>Vice-President Jusuf Kalla said the final death toll could be thousands.</p><p>Rescuers have been digging by hand in the search for survivors in the city of Palu.</p><div id="bbccom_mpu_1_2_3" class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);
+                }
+            })();
+            /**/
+        </script>
+    </div>
+</div><p>"What we now desperately need is heavy machinery to clear the rubble. I have my staff on the ground, but it's impossible just to rely on their strength alone to clear this," Muhammad Syaugi, head of the national search-and-rescue agency, told AFP news agency.</p><p>There have also been concerns about the town of Donggala, where the impact is still unclear.</p><ul class="story-body__unordered-list"><li class="story-body__list-item"><a href="https://www.bbc.co.uk/news/world-asia-45697233" class="story-body__link">In pictures: Search for survivors</a></li></ul><p>The Red Cross estimates that more than 1.6 million people have been affected by the earthquake and tsunami which it described as a tragedy that "could get much worse".</p><figure class="media-portrait no-caption full-width">
+            <span class="image-and-copyright-container">
+
+
+                <img src="https://ichef.bbci.co.uk/news/624/cpsprodpb/176BD/production/_103633959_sulawesi_palu_v2_earthquake_640-nc.png" datasrc="https://ichef.bbci.co.uk/news/320/cpsprodpb/176BD/production/_103633959_sulawesi_palu_v2_earthquake_640-nc.png" class="responsive-image__img js-image-replace" alt="Palu map" width="640" height="642" data-highest-encountered-width="624">
+
+
+            </span>
+
+        </figure><p>Strong aftershocks have continued to hit the island since Friday's earthquake.</p><p>President Joko Widodo visited Palu to view sites affected by the disaster, including Talise Beach - the main tourist area that was badly affected by the tsunami.</p><p>"I know there are many problems that need to be solved in a short time, including communications," he said. </p><h2 class="story-body__crosshead">What is the situation in Palu?</h2><p>Many remain missing in the city of 335,000, some thought to be trapped in the debris of collapsed buildings.</p><p>Rescue teams dug by hand to free 24 people trapped in the rubble of the Roa-Roa hotel in the city of Palu, but there are fears that dozens more remain trapped. </p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+
+
+                <img src="https://ichef.bbci.co.uk/news/624/cpsprodpb/1018D/production/_103633956_mediaitem103633955.jpg" datasrc="https://ichef.bbci.co.uk/news/320/cpsprodpb/1018D/production/_103633956_mediaitem103633955.jpg" class="responsive-image__img js-image-replace" alt="A tsunami-devastated area in Talise beach, Palu, central Sulawesi, Indonesia, 30 September 2018" width="976" height="549" data-highest-encountered-width="624">
+
+
+                 <span class="off-screen">Image copyright</span>
+                 <span class="story-image-copyright">EPA</span>
+
+            </span>
+
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    The tsunami left a trail of destruction
+                </span>
+            </figcaption>
+
+        </figure><p>Bodies have been lying in city streets and the injured are being treated in tents because of damage to hospitals.  </p><p>Anxious survivors in Palu bedded down in the open air on Saturday night, heeding advice by officials not to return to their homes as a precaution. </p><p>"It feels very tense," Risa Kusuma, who was with her feverish baby boy at an evacuation centre, told AFP. </p><p>"Every minute an ambulance brings in bodies. Clean water is scarce. The minimarkets are looted everywhere."</p><hr class="story-body__line"><h2 class="story-body__crosshead">'Supplies running out'</h2><p><strong>By Rebecca Henschke, in Poso</strong></p><p>In Poso, a four-hour drive from Palu, supplies are running out. State-owned petrol stations have closed as they have run dry. People are queuing up at roadside stalls, buying petrol in bottles to take into the affected area and to find missing loved ones. Supermarkets have limited food left and it is difficult to find bottled water. </p><p>Ermi Liana, who is travelling with our BBC team, doesn't know if her parents are alive. "They live close to a bridge that collapsed. I can't reach them by phone," she says. "I can only pray they are alive."</p><p>We haven't seen any aid heading in and there is still no communication link to the town of Donggala.</p><hr class="story-body__line"><h2 class="story-body__crosshead">Why were so many killed on Friday?</h2><p><a href="https://www.usgs.gov/news/magnitude-75-earthquake-near-palu-indonesia" class="story-body__link-external">The 7.5 magnitude quake occurred at a shallow depth of 10km (6.2 miles)</a> just off the central island of Sulawesi at 18:03 (10:03 GMT), triggering a tsunami, US monitors say. </p><p>Many people were on the beach in Palu, preparing for a festival, and were caught when waves swept in.</p><p>Video shows people screaming and fleeing in panic. </p><figure class="media-portrait no-caption full-width">
+            <span class="image-and-copyright-container">
+
+
+                <img src="https://ichef.bbci.co.uk/news/624/cpsprodpb/5EBD/production/_103635242_earthquake_sulawesi_population_map_english_640-nc.png" datasrc="https://ichef.bbci.co.uk/news/320/cpsprodpb/5EBD/production/_103635242_earthquake_sulawesi_population_map_english_640-nc.png" class="responsive-image__img js-image-replace" alt="Map showing population density in Sulawesi" width="640" height="655" data-highest-encountered-width="624">
+
+
+            </span>
+
+        </figure><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+
+
+                <img src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" datasrc="https://ichef.bbci.co.uk/news/320/cpsprodpb/604B/production/_97415642_007_in_numbers_624.png" class="responsive-image__img responsive-image__img--loading js-image-replace" alt="Presentational white space" width="624" height="1">
+
+
+            </span>
+
+        </figure><p>As well as destroying homes, the quake wrecked a shopping centre, a mosque, a hotel and a road bridge.</p><p>An air traffic controller at Palu airport died ensuring a plane took off safely after the quake. </p><h2 class="story-body__crosshead">What do survivors say?</h2><figure class="media-with-caption">
+    <div class="player-with-placeholder">
+            <img class="media-placeholder player-with-placeholder__image narrative-video-placeholder" src="https://ichef.bbci.co.uk/images/ic/720x405/p06mj5b1.jpg">
+            <div class="player-with-placeholder__caption">Media playback is unsupported on your device</div>
+      <div class="player-with-placeholder">
+        <div class="media-player-wrapper">
+          <div id="sticky-player-2">                <div class="sticky-player__wrapper">                    <div class="sticky-player__player"><figure class="media-player" data-playable="{&quot;settings&quot;:{&quot;counterName&quot;:&quot;news.world.asia.story.45697553.page&quot;,&quot;edition&quot;:&quot;Asia&quot;,&quot;pageType&quot;:&quot;eav2&quot;,&quot;uniqueID&quot;:&quot;45697553&quot;,&quot;ui&quot;:{&quot;locale&quot;:{&quot;lang&quot;:&quot;en-gb&quot;}},&quot;externalEmbedUrl&quot;:&quot;https:\/\/www.bbc.com\/news\/av\/embed\/p06mj4yz\/45697553&quot;,&quot;insideIframe&quot;:false,&quot;statsObject&quot;:{&quot;clipPID&quot;:&quot;p06mfmj6&quot;},&quot;playlistObject&quot;:{&quot;title&quot;:&quot;Dramatic video shows buildings being knocked down&quot;,&quot;holdingImageURL&quot;:&quot;https:\/\/ichef.bbci.co.uk\/images\/ic\/$recipe\/p06mj5b1.jpg&quot;,&quot;guidance&quot;:&quot;Contains some upsetting scenes.&quot;,&quot;embedRights&quot;:&quot;allowed&quot;,&quot;summary&quot;:&quot;Dramatic video shows buildings being knocked down&quot;,&quot;liveRewind&quot;:false,&quot;simulcast&quot;:false,&quot;items&quot;:[{&quot;vpid&quot;:&quot;p06mj4yz&quot;,&quot;live&quot;:false,&quot;duration&quot;:98,&quot;kind&quot;:&quot;programme&quot;}]}},&quot;otherSettings&quot;:{&quot;advertisingAllowed&quot;:false,&quot;continuousPlayCfg&quot;:{&quot;enabled&quot;:false},&quot;isAutoplayOnForAudience&quot;:false}}" id="media-player-2"><div id="smphtml5iframemedia-player-2wrp" style="border-bottom: 0px; z-index: 999; position: relative; height: 100%; width: 100%; padding-bottom: 56.25%;"><iframe id="smphtml5iframemedia-player-2" name="smphtml5iframemedia-player-2" frameborder="0" scrolling="no" src="//emp.bbc.com/emp/SMPj/2.21.23/iframe.html" allowfullscreen="" allowtransparency="" gesture="media" allow="autoplay" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;" title="Dramatic video shows buildings being knocked down"></iframe></div></figure></div>                    <div class="sticky-player__body">                        <h2 class="sticky-player__headline">Dramatic video shows buildings being knocked down</h2>                    </div>                    <button class="sticky-player__close-button falcon__button">                        <span class="off-screen">Exit player</span>                    </button>                </div>            </div>            <div id="sticky-player-2-placeholder" class="sticky-player__image responsive-image"></div>
+        </div>
+      </div>
+    </div>    <figcaption class="media-with-caption__caption"><span class="off-screen">Media caption</span>The moment the tsunami hit</figcaption>
+</figure><p>When the quake hit, "we all panicked and ran out of the house," Anser Bachmid, 39, told AFP news agency. "People here need aid - food, drink, clean water. We don't know what to eat for dinner tonight." </p><p>"I just ran when I saw the waves hitting homes on the coastline," Palu resident Rusidanto said.</p><p>Dwi Haris, who was in the city for a wedding, was staying in a hotel with his wife and daughter when the quake struck.</p><p><a href="https://apnews.com/d056b4d022754cbd989030242f93202d?utm_source=Twitter&amp;utm_campaign=SocialFlow&amp;utm_medium=AP" class="story-body__link-external">"There was no time to save ourselves,"</a> he told the Associated Press news agency. "I was squeezed into the ruins of the wall... I heard my wife cry for help but then silence. I don't know what happened to her and my child. I hope they are safe."</p><p>With back and shoulder injuries, he is being treated outdoors at Palu's Army Hospital.</p><h2 class="story-body__crosshead">What is being done to help?</h2><p>Aid is being flown from the capital Jakarta into Palu airport, using the part of its runway still intact.</p><p>Patients are being treated in the open outside city hospitals and at least one military field hospital has been erected.</p><p>The regional head of the Indonesian Doctors Association (IDI), Komang, asked the authorities for immediate help. </p><p>"We need tents, medicines, medical personnel, tarpaulins, blankets and more of other things," he said.</p><p>The UK-based charity Save the Children is sending an assessment team to the disaster zone.</p><p>"Unfortunately the more information that we're getting, the worse the situation appears to be," charity spokesman Tom Howells told the BBC from Jakarta. </p><hr class="story-body__line"><p><strong>Have you been affected by the earthquake? If it is safe to do so, share your experience by emailing </strong><a href="mailto:haveyoursay@bbc.co.uk?subject=Earthquake45683630" class="story-body__link-email"><span class="icon email"></span><span class="story-body__link-email-text">haveyoursay@bbc.co.uk</span></a></p><p>Please include a contact number if you are willing to speak to a BBC journalist. You can also contact us in the following ways:</p><ul class="story-body__unordered-list">
+<li class="story-body__list-item">WhatsApp: <strong>+44 7555 173285</strong>
+</li>
+<li class="story-body__list-item">Or <a href="https://bbcnewsupload.streamuk.com/" class="story-body__link-external">Upload your pictures/video here</a>
+</li>
+<li class="story-body__list-item">Tweet: <a href="http://twitter.com/BBC_HaveYourSay" class="story-body__link-external">@BBC_HaveYourSay</a>
+</li>
+<li class="story-body__list-item">Send an SMS or MMS to <strong>61124 </strong>(UK) or <strong>+44 7624 800 100 </strong>(international)</li>
+<li class="story-body__list-item">Please read our <a href="http://www.bbc.co.uk/usingthebbc/terms/" class="story-body__link">terms &amp; conditions</a> and <a href="http://www.bbc.co.uk/usingthebbc/privacy-policy/" class="story-body__link">privacy policy</a>
+</li>
+</ul>
+            </div>

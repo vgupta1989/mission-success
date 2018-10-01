@@ -1,0 +1,129 @@
+<div class="module__content"> <ul class="media-list">
+        <li class="media-list__item media-list__item--1">
+            <div class="media media--hero media--primary media--overlay block-link">
+                <div class="media__image">
+                    <div class="responsive-image"><img src="https://ichef.bbci.co.uk/wwhp/624/cpsprodpb/9226/production/_103641473_mediaitem103640768.jpg" class="image-replace" alt="US President Donald Trump and Canadian Prime Minister Justin Trudeau" data-src="https://ichef.bbci.co.uk/wwhp/{width}/cpsprodpb/9226/production/_103641473_mediaitem103640768.jpg"></div>                </div>
+
+
+                <div class="media__content">
+
+                                            <h3 class="media__title">
+                            <a class="media__link" href="/news/business-45702609" rev="hero1|headline">
+                                                                    US and Canada agree new trade deal                                                            </a>
+                        </h3>
+
+                                            <p class="media__summary">
+                                                            The existing deal had governed more than a trillion dollars in trade between the US, Canada and Mexico.                                                    </p>
+
+                                            <a class="media__tag tag tag--news" href="/news/business" rev="hero1|source">Business</a>
+
+
+                </div>
+
+                <a class="block-link__overlay-link" href="/news/business-45702609" rev="hero1|overlay" tabindex="-1" aria-hidden="true">
+                    US and Canada agree new trade deal                </a>
+            </div>
+
+        </li>
+
+        <li class="media-list__item media-list__item--2">
+            <div class="media media--overlay media--icon block-link">
+                <div class="media__image">
+                    <div class="responsive-image"><img src="https://ichef.bbci.co.uk/wwhp/304/ibroadcast/images/live/p0/6m/j5/p06mj5b1.jpg" class="image-replace" alt="Video shows tsunami hitting city" data-src="https://ichef.bbci.co.uk/wwhp/{width}/ibroadcast/images/live/p0/6m/j5/p06mj5b1.jpg"></div>                </div>
+
+                                    <span class="media__icon icon icon--video" aria-hidden="true"></span>
+
+                <div class="media__content">
+
+                                            <h3 class="media__title">
+                            <a class="media__link" href="https://www.bbc.com/news/av/world-asia-45685875/indonesia-tsunami-coastal-palu-city-hit-after-strong-quake" rev="hero2|headline">
+                                                                    The moment a tsunami hits Indonesian city                                                            </a>
+                        </h3>
+
+
+                                            <a class="media__tag tag tag--asian-news" href="http://www.bbc.com/news/world/asia" rev="hero2|source">Asia</a>
+
+
+                </div>
+
+                <a class="block-link__overlay-link" href="https://www.bbc.com/news/av/world-asia-45685875/indonesia-tsunami-coastal-palu-city-hit-after-strong-quake" rev="hero2|overlay" tabindex="-1" aria-hidden="true">
+                    The moment a tsunami hits Indonesian city                </a>
+            </div>
+
+        </li>
+
+        <li class="media-list__item media-list__item--3">
+            <div class="media media--overlay block-link">
+                <div class="media__image">
+                    <div class="responsive-image"><img src="https://ichef.bbci.co.uk/wwhp/304/ibroadcast/images/live/p0/6m/98/p06m98zw.jpg" class="image-replace" alt="Welsh people are known to have two great passions: rugby and singing" data-src="https://ichef.bbci.co.uk/wwhp/{width}/ibroadcast/images/live/p0/6m/98/p06m98zw.jpg"></div>                </div>
+
+
+                <div class="media__content">
+
+                                            <h3 class="media__title">
+                            <a class="media__link" href="http://www.bbc.com/travel/story/20180930-why-wales-is-known-as-the-land-of-song" rev="hero3|headline">
+                                                                    Can all Welsh people really sing?                                                            </a>
+                        </h3>
+
+
+                                            <a class="media__tag tag tag--travel" href="http://www.bbc.com/travel" rev="hero3|source">Travel</a>
+
+
+                </div>
+
+                <a class="block-link__overlay-link" href="http://www.bbc.com/travel/story/20180930-why-wales-is-known-as-the-land-of-song" rev="hero3|overlay" tabindex="-1" aria-hidden="true">
+                    Can all Welsh people really sing?                </a>
+            </div>
+
+        </li>
+
+        <li class="media-list__item media-list__item--4">
+            <div class="media media--overlay block-link">
+                <div class="media__image">
+                    <div class="responsive-image"><img src="https://ichef.bbci.co.uk/wwhp/304/cpsprodpb/6BCF/production/_103599572_mediaitem103599565.jpg" class="image-replace" alt="A Uyghur family pray at the grave of a loved one - 2016" data-src="https://ichef.bbci.co.uk/wwhp/{width}/cpsprodpb/6BCF/production/_103599572_mediaitem103599565.jpg"></div>                </div>
+
+
+                <div class="media__content">
+
+                                            <h3 class="media__title">
+                            <a class="media__link" href="https://www.bbc.com/news/world-asia-china-45474279" rev="hero4|headline">
+                                                                    China's Muslim 'crackdown' explained                                                            </a>
+                        </h3>
+
+
+                                            <a class="media__tag tag tag--china" href="/news/world/asia/china" rev="hero4|source">China</a>
+
+
+                </div>
+
+                <a class="block-link__overlay-link" href="https://www.bbc.com/news/world-asia-china-45474279" rev="hero4|overlay" tabindex="-1" aria-hidden="true">
+                    China's Muslim 'crackdown' explained                </a>
+            </div>
+
+        </li>
+
+        <li class="media-list__item media-list__item--5">
+            <div class="media media--overlay block-link">
+                <div class="media__image">
+                    <div class="responsive-image"><img src="https://ichef.bbci.co.uk/wwhp/304/ibroadcast/images/live/p0/6m/fj/p06mfj40.jpg" class="image-replace" alt="Lonely girl (Credit: Getty Images)" data-src="https://ichef.bbci.co.uk/wwhp/{width}/ibroadcast/images/live/p0/6m/fj/p06mfj40.jpg"></div>                </div>
+
+
+                <div class="media__content">
+
+                                            <h3 class="media__title">
+                            <a class="media__link" href="http://www.bbc.com/future/story/20180928-the-surprising-truth-about-loneliness" rev="hero5|headline">
+                                                                    The surprising truth about loneliness                                                            </a>
+                        </h3>
+
+
+                                            <a class="media__tag tag tag--future" href="http://www.bbc.com/future" rev="hero5|source">Future</a>
+
+
+                </div>
+
+                <a class="block-link__overlay-link" href="http://www.bbc.com/future/story/20180928-the-surprising-truth-about-loneliness" rev="hero5|overlay" tabindex="-1" aria-hidden="true">
+                    The surprising truth about loneliness                </a>
+            </div>
+
+        </li>
+     </ul> </div>

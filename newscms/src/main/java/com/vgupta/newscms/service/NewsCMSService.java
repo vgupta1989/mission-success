@@ -7,4 +7,5 @@ import java.util.List;
 public interface NewsCMSService {
     public void saveArticle(Article article);
     public List<Article> getNewArticlesByKeywords(String keyword);
+    public void deleteExistingArticles();
 }

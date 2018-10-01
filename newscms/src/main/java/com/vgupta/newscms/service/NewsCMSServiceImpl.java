@@ -24,4 +24,9 @@ public class NewsCMSServiceImpl implements NewsCMSService {
     public List<Article> getNewArticlesByKeywords(String keyword){
         return articlesRepository.getArticleByKeywords(keyword);
     }
+
+    @Override
+    public void deleteExistingArticles() {
+        articlesRepository.deleteExistingArticles();
+    }
 }

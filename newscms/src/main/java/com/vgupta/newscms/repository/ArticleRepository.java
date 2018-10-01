@@ -9,5 +9,7 @@ public interface ArticleRepository {
 
     public List<Article> getArticleByKeywords(String keyword);
 
+    public void deleteExistingArticles();
+
 }
 

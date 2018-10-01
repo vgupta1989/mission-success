@@ -30,6 +30,9 @@ public class ArticlesCrawler extends WebCrawler {
     @Autowired
     private NewsCMSService newsCMSService;
 
+    @Autowired
+    private ArticleExtractor articleExtractor;
+
     private final static Pattern FILTERS = Pattern.compile(".*(\\.(css|js|gif|jpg"
             + "|png|mp3|mp4|zip|gz))$");
 
@@ -56,22 +59,9 @@ public class ArticlesCrawler extends WebCrawler {
      */
     @Override
     public void visit(Page page) {
-        String url = page.getWebURL().getURL();
-        if (page.getParseData() instanceof HtmlParseData) {
-            HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
-            String html = htmlParseData.getHtml();
-            Document doc = Jsoup.parse(html);
-            Elements body_h1 = doc.getElementsByClass("story-body__h1");
-            Elements content = doc.getElementsByClass("story-body__inner");
-            if(body_h1.size() > 0 && content.size() > 0) {
-                String heading = body_h1.text();
-                Element element = content.get(0);
-                Elements p = element.getElementsByTag("p");
-                Stream<TextNode> textNodeStream = p.stream().flatMap(element1 -> element1.textNodes().stream());
-                List<String> contentList = textNodeStream.map(textNode -> textNode.getWholeText()).collect(Collectors.toList());
-                String contentText = contentList.stream().collect(Collectors.joining(" "));
-                newsCMSService.saveArticle(new Article(heading, url, contentText));
-            }
+        Article article = articleExtractor.extractArticle(page);
+        if(article != null) {
+            newsCMSService.saveArticle(article);
         }
     }
 }
