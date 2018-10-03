@@ -8,5 +8,5 @@ import lombok.Setter;
 @Setter
 public class Media {
     String mediaId;
-    Invoice invoice;
+    String invoiceUrl;
 }
