@@ -11,3 +11,5 @@ News Content Manager(NewsCMS) is a system that crawls for articles from a news w
 - Gradle
 - MongoDB
 - SpringBoot
+
+This Service is running at aws at 54.175.160.15. So if you want to test search you can use this instance. For eg if you want to get article containing Trump, you can query:- 54.175.160.15/newscms/search?query=trump. It will return top 100 articles having Trump.
